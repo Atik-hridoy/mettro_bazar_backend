@@ -1,0 +1,26 @@
+[
+  {
+    "id": "banner-1",
+    "title": "Fresh Homemade Quality Delivered",
+    "subtitle": "Experience authentic Bangladeshi cooking with pre-marinated meats, frozen parathas, & gourmet dish kits.",
+    "badge_text": "100% Ready-To-Cook",
+    "image_url": "/images/hero.jpg",
+    "button_text": "Shop Now",
+    "button_link": "#products",
+    "banner_type": "hero",
+    "is_active": true,
+    "order": 1
+  },
+  {
+    "id": "banner-2",
+    "title": "Weekend Special Biryani Feast",
+    "subtitle": "Get free delivery on orders above ৳1000 with our authentic Kalizira rice Chicken Biryani kit.",
+    "badge_text": "Weekend Special",
+    "image_url": "/images/biryani-mix.jpg",
+    "button_text": "Order Biryani Kit",
+    "button_link": "#products",
+    "banner_type": "promo",
+    "is_active": true,
+    "order": 2
+  }
+]

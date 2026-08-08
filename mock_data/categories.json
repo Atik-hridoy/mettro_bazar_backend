@@ -1,0 +1,12 @@
+[
+  { "id": "cat-1", "name": "All Products", "slug": "all", "icon_name": "Utensils" },
+  { "id": "cat-2", "name": "Biryani Mix", "slug": "biryani", "icon_name": "Flame" },
+  { "id": "cat-3", "name": "Frozen Paratha", "slug": "paratha", "icon_name": "Disc" },
+  { "id": "cat-4", "name": "Marinated Meat", "slug": "meat", "icon_name": "Beef" },
+  { "id": "cat-5", "name": "Snacks & Samosas", "slug": "snacks", "icon_name": "Cookie" },
+  { "id": "cat-6", "name": "Vegetable Mixes", "slug": "veggie", "icon_name": "Salad" },
+  { "id": "cat-7", "name": "Kebabs & Grills", "slug": "kebab", "icon_name": "Flame" },
+  { "id": "cat-8", "name": "Seafood & Fish", "slug": "seafood", "icon_name": "Fish" },
+  { "id": "cat-9", "name": "Gravy & Curry Bases", "slug": "gravy", "icon_name": "Soup" },
+  { "id": "cat-10", "name": "Dessert Kits", "slug": "dessert", "icon_name": "Cake" }
+]

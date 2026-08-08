@@ -1,0 +1,152 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Marinated Beef Curry",
+    "category": "meat",
+    "price": 450,
+    "image": "/images/beef-curry.jpg",
+    "description": "500g • Medium Spice. Vacuum-sealed tender beef curry chunks marinated with authentic Bengali spices.",
+    "isPopular": true,
+    "badgeText": "Best Seller",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 20,
+    "weightVariants": [
+      { "id": "v1-1", "weight": "500g", "price": 450, "stock": 25 },
+      { "id": "v1-2", "weight": "1kg", "price": 880, "stock": 15 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Unpack Packet", "instruction": "Bring meat to room temperature." },
+      { "stepNumber": 2, "title": "Heat Mustard Oil", "instruction": "Add 2-3 tbsp mustard oil into wok." },
+      { "stepNumber": 3, "title": "Simmer & Roast", "instruction": "Cook on low flame for 15-20 minutes until tender gravy forms." }
+    ]
+  },
+  {
+    "id": "prod-2",
+    "name": "Classic Chicken Biryani Mix",
+    "category": "biryani",
+    "price": 620,
+    "image": "/images/biryani-mix.jpg",
+    "description": "800g • Serves 3-4. Pre-measured fragrant kalizira rice, marinated chicken pieces, and spice blend.",
+    "isPopular": true,
+    "badgeText": "Authentic Recipe",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 25,
+    "weightVariants": [
+      { "id": "v2-1", "weight": "800g (Serves 3-4)", "price": 620, "stock": 20 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Boil Rice", "instruction": "Half boil rice with whole spices." },
+      { "stepNumber": 2, "title": "Cook Chicken", "instruction": "Sear marinated chicken until 80% done." },
+      { "stepNumber": 3, "title": "Dum Cooking", "instruction": "Layer rice over chicken and dum cook for 15 mins." }
+    ]
+  },
+  {
+    "id": "prod-3",
+    "name": "Hand-stretched Frozen Paratha",
+    "category": "paratha",
+    "price": 150,
+    "image": "/images/paratha.jpg",
+    "description": "10 Pieces. Hand-stretched flaky layers, clean hygienic dough ready to toast on tawa.",
+    "isPopular": false,
+    "badgeText": "Fresh Flaky",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 5,
+    "weightVariants": [
+      { "id": "v3-1", "weight": "10 Pieces", "price": 150, "stock": 50 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Heat Tawa", "instruction": "Place paratha directly on medium-hot pan without defrosting." },
+      { "stepNumber": 2, "title": "Flip & Toast", "instruction": "Flip after 30s until both sides turn golden flaky brown." }
+    ]
+  },
+  {
+    "id": "prod-4",
+    "name": "Spicy Vegetable Samosas",
+    "category": "snacks",
+    "price": 180,
+    "image": "/images/samosa.jpg",
+    "description": "12 Pieces • Ready to Fry. Golden crisp triangular pastry filled with spiced potato and peas.",
+    "isPopular": false,
+    "badgeText": "Vegetarian",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 8,
+    "weightVariants": [
+      { "id": "v4-1", "weight": "12 Pieces", "price": 180, "stock": 35 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Deep Fry", "instruction": "Fry in hot oil at 170°C for 6-8 minutes until golden crisp." }
+    ]
+  },
+  {
+    "id": "prod-5",
+    "name": "Smokey Beef Seekh Kebab Kit",
+    "category": "kebab",
+    "price": 380,
+    "image": "/images/hero.jpg",
+    "description": "6 Skewers • Pre-spiced tender minced beef kebabs ready for pan grilling or oven bake.",
+    "isPopular": true,
+    "badgeText": "Grill Ready",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 12,
+    "weightVariants": [
+      { "id": "v5-1", "weight": "6 Skewers (400g)", "price": 380, "stock": 30 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Pan Fry or Sear", "instruction": "Brush with butter/oil and grill on medium heat for 10-12 mins." }
+    ]
+  },
+  {
+    "id": "prod-6",
+    "name": "Mustard Marinated Hilsa Fish (Shorshe Ilish)",
+    "category": "seafood",
+    "price": 850,
+    "image": "/images/hero.jpg",
+    "description": "4 Large Cut Steaks • Fresh Padma Ilish marinated in pungent yellow mustard and green chilies.",
+    "isPopular": true,
+    "badgeText": "Padma Premium",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 15,
+    "weightVariants": [
+      { "id": "v6-1", "weight": "4 Pieces (500g)", "price": 850, "stock": 12 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Steam or Simmer", "instruction": "Simmer in mustard gravy on medium heat for 15 minutes." }
+    ]
+  },
+  {
+    "id": "prod-7",
+    "name": "Bhuna Meat Curry Gravy Base",
+    "category": "gravy",
+    "price": 190,
+    "image": "/images/hero.jpg",
+    "description": "300g Packet • Concentrated roasted onion, ginger-garlic & secret whole spice bhuna paste.",
+    "isPopular": false,
+    "badgeText": "Instant Base",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 10,
+    "weightVariants": [
+      { "id": "v7-1", "weight": "300g Pack", "price": 190, "stock": 40 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Add Meat or Veggies", "instruction": "Sauté with your choice of protein and half cup hot water." }
+    ]
+  },
+  {
+    "id": "prod-8",
+    "name": "Shahi Tukda Dessert Kit",
+    "category": "dessert",
+    "price": 220,
+    "image": "/images/hero.jpg",
+    "description": "Serves 4 • Ghee fried bread slices with condensed rabri milk & crushed pistachios.",
+    "isPopular": false,
+    "badgeText": "Sweet Treat",
+    "isReadyToCook": true,
+    "preparationTimeMinutes": 8,
+    "weightVariants": [
+      { "id": "v8-1", "weight": "Serves 4", "price": 220, "stock": 25 }
+    ],
+    "cookingSteps": [
+      { "stepNumber": 1, "title": "Pour Rabri", "instruction": "Pour chilled rabri over fried bread and garnish with pistachios." }
+    ]
+  }
+]
